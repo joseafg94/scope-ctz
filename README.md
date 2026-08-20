@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/hero.webp"
+    alt="Meniva — self-managed digital menu platform"
+    width="100%"
+  />
+</p>
+
 <div align="center">
 
 # SCOPE

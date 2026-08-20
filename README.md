@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 
-[Live Demo](https://scopebyfuentivo.vercel.app/) · [Fontesio](https://fontesio.vercel.app/es)
+[Live Demo](https://scopebyfontesio.vercel.app/) · [Fontesio](https://fontesio.vercel.app/es)
 
 </div>
 
